@@ -26,3 +26,6 @@ flutter:
     - assets/images/papel.png
     - assets/images/tesoura.png
     - assets/images/sentado.png
+    - assets/images/vitoria.png
+    - assets/images/empate.png
+    - assets/images/derrota.png
